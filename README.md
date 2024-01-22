@@ -2,7 +2,7 @@
 
 **`🎯 Online Sharpshooter`**
 
-I'm a software engineer specializing in full-stack web development, currently employed by Midwestern Interactive. My projects are designed from the ground-up to specifically meet the needs specified by my clients or by myself. My goal in web development is to bring the latest technology to businesses and indivdiuals who may have been previously laking in their presence online. I strongly believe in treating clients, friends and coworkers as you want or expect them to treat you in turn.
+I'm a software engineer specializing in full-stack web development, currently employed by Midwestern Interactive. My projects are designed from the ground-up to specifically meet the needs specified by my clients or by myself. My goal in web development is to bring the latest technology to businesses and individuals who may have been previously lacking in their presence online. I strongly believe in treating clients, friends and coworkers as you want or expect them to treat you in turn.
 <br />
 #
 
