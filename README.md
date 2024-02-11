@@ -7,7 +7,7 @@ I'm a software engineer specializing in full-stack web development, currently em
 
 #
 
-## 🧰 Languages and Tools 🛠️
+## 🧰 Languages and Frameworks 🛠️
 
 <br />
 
