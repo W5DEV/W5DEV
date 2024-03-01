@@ -33,7 +33,7 @@ I'm a software engineer specializing in full-stack web development, currently em
 ## 📊 Stats 📊
 
 ![GitHub stats](https://github-readme-stats-pink-six-36.vercel.app/api?username=W5DEV&show_icons=true&count_private=true&include_all_commits=false&theme=dracula&bg_color=22272e&hide_border=true&show=prs_merged,prs_merged_percentage&hide=contribs,issues&custom_title=W5DEV%27s%202024%20GitHub%C2%A0Stats)<br/>
-![Top Langs](https://github-readme-stats-pink-six-36.vercel.app/api/top-langs/?username=W5DEV&layout=donut&count_private=true&include_all_commits=true&theme=dracula&bg_color=22272e&hide_border=true&langs_count=20&hide=css,html&hide_progress=true)
+![Top Langs](https://github-readme-stats-pink-six-36.vercel.app/api/top-langs/?username=W5DEV&layout=donut&count_private=true&include_all_commits=true&theme=dracula&bg_color=22272e&hide_border=true&langs_count=20&hide_progress=true)
 <br/>
 
 #
