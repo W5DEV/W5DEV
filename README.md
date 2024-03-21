@@ -2,10 +2,15 @@
 
 **`🎯 Online Sharpshooter`**
 
-I'm a software engineer specializing in full-stack web development, currently employed by Midwestern Interactive. My projects are designed from the ground-up to specifically meet the needs specified by my clients or by myself. My goal in web development is to bring the latest technology to businesses and individuals who may have been previously lacking in their presence online. I strongly believe in treating clients, friends and coworkers as you want or expect them to treat you in turn.
-<br />
+As a Software Engineer at Midwestern Interactive, I craft bespoke digital experiences that bridge the gap between businesses and cutting-edge web technology. My approach is holistic, starting from the kernel of an idea to the final stroke of code, ensuring each project not only meets but exceeds the unique demands of my clients—or my own creative quests.
 
-#
+In the realm of web development, my mission is twofold: to catapult businesses into the digital forefront and to enrich individuals’ online presence. This journey is fueled by a passion for integrating the latest tech innovations in a way that’s both accessible and transformative.
+
+At the core of my professional ethos is a simple, yet profound belief: the golden rule of reciprocity. Whether it’s clients, colleagues, or companions, I engage with all on a foundation of mutual respect and the anticipation of shared success.
+
+Let’s weave the web of tomorrow, together.
+
+<br />
 
 ## 🧰 Languages and Frameworks 🛠️
 
@@ -24,9 +29,6 @@ I'm a software engineer specializing in full-stack web development, currently em
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Vue" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
 <br />
-<br />
-
-#
 
 <br />
 
@@ -40,9 +42,20 @@ I'm a software engineer specializing in full-stack web development, currently em
 
 <details>
  <summary><h3>🚨 John's Coding Journey 🚨</h3></summary>
-   I started my coding journey in college, building rudimentary and basic responsive websites using vanilla HTML and CSS. I learned javascript in one of my classes and coded simple in-browser games and eventually started adding basic functionality to these websites. My journey progressed to creating and fixing Minecraft plugins using Java for a server to improve the ease of management. I joined the workforce in 2013 and immediately put my skills to use finding avenues within the company I was working for to not only show off my own abilities, but learn more about their processes and grow in .NET e-commerce website creation for our clients. I started freelancing in 2014, where I helped build apps and websites for businesses using Javascript, PHP and Wordpress, including maintaining and innovating a website for an online sports journalism company I founded (South MS Sports 2013-2018). I increased my development skills and applied them mostly to contract work while working as a Network Engineer from 2017 til 2021, when I finally broke back into web development professionally. I was given sole responsibility for over 65 client websites while working for the company, and I also started applying my knowledge of React and other web technologies to ongoing active development. I transitioned quickly to roles solely focused on web development and in 2022, I ended up at a company where I can finally call home - Midwestern Interactive. Today my side projects include creating scalable and robust backend APIs for content management, creating a personal-use online cookbook app to preserve valuable family recipes, and creating other useful web apps and programs in Kotlin, like a no-frills budgeting apps, an online reloading aide and even an upcoming online media platform for news, weather and sports journalism. My hobbies include hiking, camping, survival, shooting and ham radio.
+
+  Embarking on my coding odyssey in the collegiate realm, I honed the art of webcraft with the foundational tools of HTML and CSS, creating responsive websites that were both functional and aesthetically pleasing. The discovery of JavaScript in an academic setting propelled me into the world of interactive in-browser gaming, enhancing my sites with dynamic features.
+  
+  My technical voyage evolved with Java, where I engineered and refined Minecraft plugins, streamlining server management and enhancing gameplay. In 2013, I ventured into the professional sphere, leveraging my expertise to unveil hidden opportunities within my organization, contributing to .NET e-commerce solutions, and expanding my horizons in digital commerce.
+  
+  The freelance frontier beckoned in 2014, leading me to architect applications and websites for diverse businesses. My toolkit expanded with JavaScript, PHP, and WordPress, culminating in the creation and stewardship of an online sports journalism venture, South MS Sports (2013-2018).
+  
+  As a Network Engineer, I continued to elevate my craft from 2017 to 2021, applying my growing skill set to contract endeavors. My reentry into professional web development was marked by the stewardship of over 65 client websites, where I infused my knowledge of React and modern web technologies into active development projects.
+  
+  In 2022, I found my professional sanctuary at Midwestern Interactive, where my passion for development is not only nurtured but thrives. My current pursuits include devising scalable backend APIs, concocting a digital cookbook to safeguard treasured family recipes, and developing pragmatic applications in Go — ranging from budgeting tools to an innovative reloading assistant.
+  
+  Beyond the digital landscape, I find solace in the embrace of nature, indulging in hiking, camping, and survival. The precision of shooting and the exploration of ham radio frequencies offer a balance to my professional endeavors, grounding me in the tangible joys of the world.
+</details>
 
 <br />
-<br />
 
-[Visit my portfolio website](https://www.jjlarson.com/)
+[Visit my portfolio website, which is based losely on a mashup of the MacOS terminal and the Windows Command Prompt.](https://www.jjlarson.com/)
