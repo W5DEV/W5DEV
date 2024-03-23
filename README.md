@@ -34,8 +34,8 @@ Let’s weave the web of tomorrow, together.
 
 ## 📊 Stats 📊
 ![GitHub Streaks](https://streak-stats.demolab.com/?user=w5dev&theme=dracula&hide_border=true&border_radius=5&card_width=800)
-![GitHub stats](https://github-readme-stats-pink-six-36.vercel.app/api?username=W5DEV&show_icons=true&count_private=true&include_all_commits=false&theme=dracula&bg_color=22272e&hide_border=true&show=prs_merged,prs_merged_percentage&hide=contribs,issues&custom_title=W5DEV%27s%202024%20GitHub%C2%A0Stats)<br/>
-![Top Langs](https://github-readme-stats-pink-six-36.vercel.app/api/top-langs/?username=W5DEV&layout=donut&count_private=true&include_all_commits=true&theme=dracula&bg_color=22272e&hide_border=true&langs_count=20)
+![GitHub stats](https://github-readme-stats-pink-six-36.vercel.app/api?username=W5DEV&show_icons=true&count_private=true&include_all_commits=false&theme=dracula&hide_border=true&show=prs_merged,prs_merged_percentage&hide=contribs,issues&custom_title=W5DEV%27s%202024%20GitHub%C2%A0Stats)<br/>
+![Top Langs](https://github-readme-stats-pink-six-36.vercel.app/api/top-langs/?username=W5DEV&layout=donut&count_private=true&include_all_commits=true&theme=dracula&hide_border=true&langs_count=20)
 <br/>
 
 #
