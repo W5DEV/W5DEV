@@ -4,7 +4,7 @@
 
 As a Software Engineer at Midwestern Interactive, I craft bespoke digital experiences that bridge the gap between businesses and cutting-edge web technology. My approach is holistic, starting from the kernel of an idea to the final stroke of code, ensuring each project not only meets but exceeds the unique demands of my clients—or my own creative quests.
 
-In the realm of web development, my mission is twofold: to catapult businesses into the digital forefront and to enrich individuals’ online presence. This journey is fueled by a passion for integrating the latest tech innovations in a way that’s both accessible and transformative.
+In the realm of web development, my mission is twofold: to catapult businesses into the digital forefront and enrich individuals’ online presence. This journey is fueled by a passion for integrating the latest tech innovations in a way that’s both accessible and transformative.
 
 At the core of my professional ethos is a simple, yet profound belief: the golden rule of reciprocity. Whether it’s clients, colleagues, or companions, I engage with all on a foundation of mutual respect and the anticipation of shared success.
 
