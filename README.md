@@ -1,6 +1,6 @@
 # 👾👾 John Larson 👾👾
 
-**`🎯 Online Sharpshooter`**
+**`🎯 Software Sharpshooter`**
 
 As a Software Engineer at Midwestern Interactive, I craft bespoke digital experiences that bridge the gap between businesses and cutting-edge web technology. My approach is holistic, starting from the kernel of an idea to the final stroke of code, ensuring each project not only meets but exceeds the unique demands of my clients—or my own creative quests.
 
