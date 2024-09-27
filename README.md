@@ -29,7 +29,7 @@ This is a list of my favorite and most frequently used languages and frameworks.
 ## 📊 Stats 📊
 
 ![GitHub Streaks](https://streak-stats.demolab.com/?user=w5dev&theme=dracula&hide_border=true&border_radius=5&card_width=800)
-![Top Langs](https://github-readme-stats-pink-six-36.vercel.app/api/top-langs/?username=W5DEV&layout=donut&count_private=true&include_all_commits=true&theme=dracula&hide_border=true&langs_count=20)
+![Top Langs](https://github-readme-stats-pink-six-36.vercel.app/api/top-langs/?username=W5DEV&layout=donut&count_private=true&include_all_commits=true&theme=dracula&hide_border=true&langs_count=7)
 
 <br/>
 
