@@ -24,8 +24,4 @@ This is a list of my favorite and most frequently used languages and frameworks.
 
 <br />
 
-## 📊 Stats 📊
-
-![Top Langs](https://github-readme-stats-pink-six-36.vercel.app/api/top-langs/?username=W5DEV&layout=compact&count_private=true&include_all_commits=true&theme=dracula&hide_border=true&langs_count=5&hide=html,css,vue,c%2B%2B,cmake,kotlin,dart,gdscript)
-
 [Visit my portfolio website, which is based losely on a mashup of the MacOS terminal and the Windows Command Prompt.](https://www.jjlarson.com/)
