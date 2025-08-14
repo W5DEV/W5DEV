@@ -16,6 +16,6 @@ This is a list of my favorite and most frequently used languages and frameworks.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,rust,go,javascript&perline=8" />
+    <img src="https://skillicons.dev/icons?i=svelte,tailwindcss,rust,go,python,docker,javascript,typescript&perline=8"  />
   </a>
 </p>
